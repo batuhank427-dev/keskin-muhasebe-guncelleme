@@ -1,7 +1,13 @@
 {
-  "surum": "1.0.0",
+  "surum": "1.0.2",
   "tarih": "07.11.2026",
-  "saat": "01:02",
-  "sha256": "63acaaf8f9b0ccde948ae324a183d0a4b0a3c9717c2b787ccda0ce328fe373cb",
-  "gecmis": []
+  "saat": "21:18",
+  "sha256": "5795c793cbc0472627d8dd777a80b5efc9fe942a564567f9a1dae5de16dba1eb",
+  "gecmis": [
+    [
+      "1.0.0",
+      "07.11.2026",
+      "01:02"
+    ]
+  ]
 }
